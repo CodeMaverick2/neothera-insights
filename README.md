@@ -37,7 +37,7 @@ I spent maybe 60% of my time on the engine and knowledge base, and 40% on making
 
 ## Live Demo
 
-**[Deployed URL here]**
+**https://neothera-insights.vercel.app/**
 
 Click "Interactive demo" on the landing page to see the full walkthrough.
 
